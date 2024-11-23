@@ -1,0 +1,12 @@
+localserver:
+  host: localhost
+  port: 8080
+db:
+  host: localhost
+  port: 8085
+  db_name: video
+  db_user: postgres
+  db_password: postgres
+redis:
+  host: localhost
+  port: 6459
